@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-🚀 Neste projeto foi proposto criar uma aplicação de clima, que usa a API OPENWEATHERMAP para trazer os dados climáticos das cidades.
+🚀 Neste projeto foi proposto criar uma aplicação de clima, que usa uma API para trazer os dados climáticos das cidades.
 
 ## Layout 
 
