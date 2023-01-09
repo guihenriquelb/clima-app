@@ -6,7 +6,9 @@
 }
 
 body{
-    background: linear-gradient(180deg, #594cee 0%, #8dd0f5 100%);
+    /*background: linear-gradient(180deg, #594cee 0%, #8dd0f5 100%);*/
+    background-image: url(/assets/img/bg-1-blur.jpg);
+    background-position: center;
     display: flex;
     justify-content: center;
     align-items: center;
